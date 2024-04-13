@@ -1,0 +1,5 @@
+﻿品种代码,合约类型,年化夏普比率,年化收益率,波动率,最大回撤率,卡玛比率,布林带计算回望窗口,布林带标准倍数,持有天数,use_vix,use_vc_vp,use_vix_call_and_vix_put,use_rsj
+AG,虚值一档,,0.0,0.0,0.0,,20,1,inf,False,False,True,False
+AG,虚值二档,,0.0,0.0,0.0,,20,1,inf,False,False,True,False
+AG,虚值三档,,0.0,0.0,0.0,,20,1,inf,False,False,True,False
+AG,平值期权,,0.0,0.0,0.0,,20,1,inf,False,False,True,False
